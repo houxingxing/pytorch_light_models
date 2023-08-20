@@ -1,5 +1,5 @@
 # pytorch_light_models
-pytorch, mobileNet系列, shuffleNet系列...  
+pytorch实现轻量化模型, 如mobileNet系列, shuffleNet系列...  
 
 ## 1. mobileNet系列
 ### 1.1 mobileNet v1介绍
@@ -13,3 +13,10 @@ pytorch, mobileNet系列, shuffleNet系列...
 
 ### 2.1 shuffleNet v1介绍
 [实现代码](./models/shufflenet/shufflenetv1.py)
+
+### 2.2 shuffleNet v1介绍
+[实现代码](./models/shufflenet/shufflenetv2.py)
+
+## 3. efficientNet系列
+### 3.1 efficientNetB0介绍
+[实现代码](./models/efficientnet/efficientNetB0.py)
